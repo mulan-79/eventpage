@@ -1,0 +1,5 @@
+name = "eventpage"
+compatibility_date = "2025-03-26"
+
+# Cloudflare Pages(Git 연동)가 빌드 산출물 위치를 확실히 dist로 맞추도록 합니다.
+pages_build_output_dir = "dist"
